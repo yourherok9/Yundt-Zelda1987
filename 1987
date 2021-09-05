@@ -1,2 +1,4 @@
 vmess://ws+tls:56b2085c-b5a7-4e37-afa8-20a69c88f354-64@172.64.67.99:443/?host=tiny-sun-df7b.hjfyuryortww56.workers.dev&tlsServerName=tiny-sun-df7b.hjfyuryortww56.workers.dev#1
 vmess://ws+tls:b0433511-7f02-4687-ba88-009290e1d790-64@172.64.96.224:443/?host=raspy-credit-436e.hjfyuryortww56.workers.dev&tlsServerName=raspy-credit-436e.hjfyuryortww56.workers.dev#2
+vmess://ws+tls:a901ee4d-5a72-404b-a52c-ba4107e676d5-64@172.64.67.99:443/?tlsServerName=crimson-boat-3598.verymeaningfulcreation.workers.dev#01
+vless://126ce529-15ca-4220-8b95-54368a1fb5b5@172.64.74.119:443?type=ws&security=tls&path=%2F&host&sni=tiny-bread-4cee.verymeaningfulcreation.workers.dev#02
