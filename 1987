@@ -1,2 +1,2 @@
-vmess://ws+tls:0773ba76-114b-4e81-8a65-749c04ac5433-64@104.19.0.227:443/?host=fragrant-sound-2fd1.hjfyuryortww56.workers.dev&tlsServerName=fragrant-sound-2fd1.hjfyuryortww56.workers.dev#1
-vmess://ws+tls:8c73ae9e-b477-4c79-a3bf-1139a2e0326c-64@104.16.146.146:443/?host=square-thunder-6b62.hjfyuryortww56.workers.dev&tlsServerName=square-thunder-6b62.hjfyuryortww56.workers.dev#2
+vless://cbfed2d0-5718-4231-9d22-1dc5cf97616d@104.16.145.146:443?type=ws&security=tls&path=%2Fcbfed2d0-5718-4231-9d22-1dc5cf97616d-vless&host=cold-resonance-9bc2.fkhfyougit56.workers.dev&sni=cold-resonance-9bc2.fkhfyougit56.workers.dev&alpn=#1
+vless://9e002def-adc4-4257-8de9-4260643a5824@104.16.144.146:443?type=ws&security=tls&path=%2F9e002def-adc4-4257-8de9-4260643a5824-vless&host=cold-resonance-9bc2.fkhfyougit56.workers.dev&sni=small-boat-afac.fkhfyougit56.workers.dev&alpn=#2
